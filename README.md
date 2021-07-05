@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STRTSNM
 - 👀 I’m interested in making some crazy computer programs that go wild.
 - 🌱 I’m currently learning how to use AI for ... well everything
-- 💞️ I’m looking to collaborate on a project called SKINET
+- 💞️ I’m looking to collaborate on a project called RICTP
 - 📫 How to reach me? contact me on strtsnm12@gmail.com
 
 <!---
