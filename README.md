@@ -2,7 +2,7 @@
 
 ### Tech explorer • Efficiency-driven developer • Always building, always learning
 
-I dig into systems at every layer --- from kernel internals to GPU
+I dig into systems at every layer, from kernel internals to GPU
 pipelines to mobile boot chains.\
 I like pushing hardware and software *way* past what they were designed
 for. Phones aren't meant to dual-boot?\
