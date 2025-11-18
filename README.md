@@ -1,4 +1,8 @@
 # Hello
+<div align=center>
+<img src="https://github.com/user-attachments/assets/c09fe3f2-b52c-42ac-8736-5bf9ea7798a1"></img>
+</div>
+
 
 ### Tech explorer • Efficiency-driven developer • Always building, always learning
 
@@ -13,7 +17,7 @@ I try anyway. And often, I get it working.
 
 ------------------------------------------------------------------------
 
-## ⚡ What I do
+## What I do
 
 -   **Push boundaries**\
     Dual-booting phones, running Arch on non-Linux devices, bending
@@ -68,7 +72,7 @@ Wayland • Arch Linux • UDP systems • Custom tooling • Bootloaders
 
 ------------------------------------------------------------------------
 
-## Let's connect 🤝
+## Let's connect
 
 If you're into making devices do things they were never designed for ---
 or you enjoy efficiency, system hacking, or bold experiments --- we're
