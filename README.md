@@ -46,7 +46,7 @@ I try anyway. And often, I get it working.
 
 -   [Ketta](https://github.com/STRT-Official/Ketta-Official) - yet another virtual assistant
 -   [Zipip](https://github.com/strtsnm/zipip) - pip, but faster
--   [Zigit](https://github.com/strtsnm/zipip) - git, but faster
+-   [Zigit](https://github.com/strtsnm/zigip) - git, but faster
 -   A Linux distro tailored for Android hardware , able to run on almost any device
 -   Experiments that "shouldn't work," just to see if they can 💪
 
