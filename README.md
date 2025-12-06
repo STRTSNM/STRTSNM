@@ -48,7 +48,7 @@ I try anyway. And often, I get it working.
 -   [Zipip](https://github.com/strtsnm/zipip) - pip, but faster
 -   [Zigit](https://github.com/strtsnm/zigit) - git, but faster
 -   A Linux distro tailored for Android hardware , able to run on almost any device
--   Experiments that "shouldn't work," just to see if they can 💪
+-    any experiments that "shouldn't work," just to see if they can 💪
 
 ------------------------------------------------------------------------
 
